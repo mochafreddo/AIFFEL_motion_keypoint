@@ -1,4 +1,4 @@
-# [Dacon] 모션 키포인트 검출 AI 경진대회 참여 README
+# [Dacon] 모션 키포인트 검출 AI 경진대회 참여
 
 ![motion](https://user-images.githubusercontent.com/76798200/113500617-4d375800-955a-11eb-8120-3ae607ff43ba.png)
 
@@ -13,7 +13,6 @@
  ![image](https://user-images.githubusercontent.com/76798200/113500627-78ba4280-955a-11eb-8ed2-58b61ccade88.png)
  ![image](https://user-images.githubusercontent.com/76798200/113500634-88d22200-955a-11eb-9c0c-89367ab192bb.png)
  
-                                        <Train Dataset> <각 이미지에서 24개의 키포인트를 예측하고 있음>
 
 
 
